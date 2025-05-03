@@ -1,0 +1,11 @@
+# Android build klasörleri (tüm projelerde geçerli olur)
+**/android/.gradle/
+**/android/app/.cxx/
+**/android/build/
+**/android/app/build/
+
+# node_modules klasörleri (React Native, JS projeleri)
+**/node_modules/
+
+# Derleme çıktıları (örneğin C/C++ veya obj dosyaları)
+*.o
